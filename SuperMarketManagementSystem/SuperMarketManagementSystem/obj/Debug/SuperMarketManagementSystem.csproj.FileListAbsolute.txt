@@ -1,0 +1,50 @@
+C:\Users\krcha\source\repos\SuperMarketManagementSystem\SuperMarketManagementSystem\bin\Debug\SuperMarketManagementSystem.exe.config
+C:\Users\krcha\source\repos\SuperMarketManagementSystem\SuperMarketManagementSystem\bin\Debug\SuperMarketManagementSystem.exe
+C:\Users\krcha\source\repos\SuperMarketManagementSystem\SuperMarketManagementSystem\bin\Debug\SuperMarketManagementSystem.pdb
+C:\Users\krcha\source\repos\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.csproj.AssemblyReference.cache
+C:\Users\krcha\source\repos\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\krcha\source\repos\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.loginForm.resources
+C:\Users\krcha\source\repos\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.Properties.Resources.resources
+C:\Users\krcha\source\repos\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.csproj.GenerateResource.cache
+C:\Users\krcha\source\repos\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\krcha\source\repos\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.exe
+C:\Users\krcha\source\repos\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.pdb
+C:\Users\krcha\source\repos\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.MangeProduct.resources
+C:\Users\krcha\source\repos\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.usertypedetails.resources
+C:\Users\krcha\source\Project on visual studio 2022\SuperMarketManagementSystem\SuperMarketManagementSystem\bin\Debug\SuperMarketManagementSystem.exe.config
+C:\Users\krcha\source\Project on visual studio 2022\SuperMarketManagementSystem\SuperMarketManagementSystem\bin\Debug\SuperMarketManagementSystem.exe
+C:\Users\krcha\source\Project on visual studio 2022\SuperMarketManagementSystem\SuperMarketManagementSystem\bin\Debug\SuperMarketManagementSystem.pdb
+C:\Users\krcha\source\Project on visual studio 2022\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.csproj.AssemblyReference.cache
+C:\Users\krcha\source\Project on visual studio 2022\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\krcha\source\Project on visual studio 2022\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.loginForm.resources
+C:\Users\krcha\source\Project on visual studio 2022\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.MangeProduct.resources
+C:\Users\krcha\source\Project on visual studio 2022\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.Properties.Resources.resources
+C:\Users\krcha\source\Project on visual studio 2022\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.usertypedetails.resources
+C:\Users\krcha\source\Project on visual studio 2022\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.csproj.GenerateResource.cache
+C:\Users\krcha\source\Project on visual studio 2022\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\krcha\source\Project on visual studio 2022\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.exe
+C:\Users\krcha\source\Project on visual studio 2022\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.pdb
+C:\Users\Kirato\Desktop\SuperMarketManagementSystem\SuperMarketManagementSystem\bin\Debug\SuperMarketManagementSystem.exe.config
+C:\Users\Kirato\Desktop\SuperMarketManagementSystem\SuperMarketManagementSystem\bin\Debug\SuperMarketManagementSystem.exe
+C:\Users\Kirato\Desktop\SuperMarketManagementSystem\SuperMarketManagementSystem\bin\Debug\SuperMarketManagementSystem.pdb
+C:\Users\Kirato\Desktop\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Kirato\Desktop\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.loginForm.resources
+C:\Users\Kirato\Desktop\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.MangeProduct.resources
+C:\Users\Kirato\Desktop\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.Properties.Resources.resources
+C:\Users\Kirato\Desktop\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.usertypedetails.resources
+C:\Users\Kirato\Desktop\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.csproj.GenerateResource.cache
+C:\Users\Kirato\Desktop\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Kirato\Desktop\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.exe
+C:\Users\Kirato\Desktop\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.pdb
+E:\Multimedia\drm\4th Sem All\My 4th Sem\Project-III\SuperMarketManagementSystem\SuperMarketManagementSystem\bin\Debug\SuperMarketManagementSystem.exe.config
+E:\Multimedia\drm\4th Sem All\My 4th Sem\Project-III\SuperMarketManagementSystem\SuperMarketManagementSystem\bin\Debug\SuperMarketManagementSystem.exe
+E:\Multimedia\drm\4th Sem All\My 4th Sem\Project-III\SuperMarketManagementSystem\SuperMarketManagementSystem\bin\Debug\SuperMarketManagementSystem.pdb
+E:\Multimedia\drm\4th Sem All\My 4th Sem\Project-III\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.csproj.AssemblyReference.cache
+E:\Multimedia\drm\4th Sem All\My 4th Sem\Project-III\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.loginForm.resources
+E:\Multimedia\drm\4th Sem All\My 4th Sem\Project-III\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.MangeProduct.resources
+E:\Multimedia\drm\4th Sem All\My 4th Sem\Project-III\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.Properties.Resources.resources
+E:\Multimedia\drm\4th Sem All\My 4th Sem\Project-III\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.usertypedetails.resources
+E:\Multimedia\drm\4th Sem All\My 4th Sem\Project-III\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.csproj.GenerateResource.cache
+E:\Multimedia\drm\4th Sem All\My 4th Sem\Project-III\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.csproj.CoreCompileInputs.cache
+E:\Multimedia\drm\4th Sem All\My 4th Sem\Project-III\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.exe
+E:\Multimedia\drm\4th Sem All\My 4th Sem\Project-III\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.pdb
