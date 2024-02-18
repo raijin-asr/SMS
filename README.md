@@ -1,9 +1,10 @@
 # SMS
-<h1>Introduction</h1>
+<h1>Introduction</h1></br>
 SMS(Supermarket Management System) is digitalized system designed with simple User-Friendly 
 User Interface(UI) using C# Programming Language to automate the existing manual system for 
 customer information management, product information management and bill calculation. It is
 third semester project of BIT under Course "Project-III"</br>
+<strong> Team Members </strong> Ameer S. Rai, Krishna K. Khanw
 <strong>Programming Language used:</strong> C#(.NET Framework)</br>
 <strong>IDE Used:</strong> Visual Studio 2019</br>
 
