@@ -6,7 +6,12 @@ customer information management, product information management and bill calcula
 third semester project of BIT under Course "Project-III"</br></br>
 <strong> Team Members </strong> Ameer S. Rai, Krishna K. Khanw</br>
 <strong>Programming Language used:</strong> C#(.NET Framework)</br>
-<strong>IDE Used:</strong> Visual Studio 2019</br>
+<strong>IDE Used:</strong> Visual Studio 2019</br><br>
+
+![Contributors](https://img.shields.io/badge/Contributors-1-blue)
+
+- [Contributor 1: <i>Krishna Kumar Khanw</i>](https://github.com/krchaudhary024)
+<hr>
 
 <h1>Screenshots</h1>
 
